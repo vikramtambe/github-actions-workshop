@@ -198,6 +198,8 @@ To get started, navigate to the [Workshop Labs](./workshop-labs.md) page where y
 
 ---
 
+[![Intro - Simple Workflow](https://github.com/vikramtambe/github-actions-workshop/actions/workflows/simple-workflow.yml/badge.svg?branch=main)](https://github.com/vikramtambe/github-actions-workshop/actions/workflows/simple-workflow.yml)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
